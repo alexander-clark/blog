@@ -29,7 +29,7 @@ twitter_username: atheclark
 github_username:  alexander-clark
 
 # Build settings
-theme: jekyll-theme-slate
+theme: minima
 plugins:
   - jekyll-feed
 
