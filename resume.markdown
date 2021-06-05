@@ -7,86 +7,66 @@ permalink: /resume/
 # Alexander Clark
 ## Qualifications
 
-* Ten years professional experience building MVC-based web applications
-* Seven years using Ruby on Rails
-* Fourteen years in the IT industry
-* Sixteen years using Linux and MySQL
-* Twenty years of writing code
+* Twelve years of experience building web applications
+* Ten years using Ruby on Rails
+* Seventeen years using MySQL and Linux
+* Twenty-three years of writing code
 
 ## Technical Skills:
 
-Adept: Ruby, Rails, Javascript (esp. jQuery), HTML, SASS, CSS, Git, RSpec, Apache, Linux
+**Adept:** Ruby, Rails, Docker, Javascript, Angular, SQL (PostgreSQL, MySQL), HTML, SASS, CSS, Git, RSpec, Minitest, Apache, Linux
 
-Practiced: sql (PostgreSQL, MySQL, SQLite), Capistrano, Phusion Passenger, BASH scripting, PHP, Subversion
+**Practiced:** LaTeX, BASH scripting, AWS EC2, PHP
 
-Dabbled-in: Heroku, AWS EC2, Ember.js, ObjectiveC, Scheme, C, C++, Java, Python, Postfix, BIND, LaTeX
+**Dabbled-in:** Kubernetes, React, Heroku, Scheme, C, C++, Java, Python, golang, TLA+
 
-## Professional Experience:
+## Experience:
 
-Apr 2016 – Present
+Apr 2016 – Jun 2021<br />
+**Director of Engineering, Lead Developer**<br />
+*WeInfuse*
 
-Lead Developer
-WeInfuse, LLC
-Austin, Texas
+* Set the technical, architectural, and DevOps foundation for a secure, scalable SaaS application, from zero lines of code to $3m arr and 1,800 mau across 73 clients operating 500 locations
+* Wrote the first lines of code and many critical portions of the codebase
+* Recruited,hired,onboarded,andmanageddevelopmentteammembers,grow- ing the engineering organization from one person to multiple teams
+* Oversaw the ongoing strategic technical vision, maintaining rigorous security requirements while continually evaluating the product backlog to proactively address gaps in current capabilities and opportunities for technical debt payoff
+* Lead a small team of engineers in building a one-of-a-kind healthcare application. Set the technical and architectural tone, maintain infrastructure and DevOps tooling to keep the team productive, work with contractors and vendors, facilitate communication within the team
 
-Lead a small team of engineers in building a one-of-a-kind healthcare application. Set the technical and architectural tone, maintain infrastructure and DevOps tooling to keep the team productive, work with contractors and vendors, facilitate communication within the team
+Jun 2014 – Apr 2016<br />
+**Ruby Developer**<br />
+*Bypass Mobile*
 
-Jun 2014 – Apr 2016
+* Created a repl interface for l2 support, freeing up developer time
+* Builtapisandbackendfunctionalitydrivingacutting-edgemobilepointofsale system
+* Provided front-end administration interfaces for configuration of features
+* Worked with product owners, ux and ui experts, and qa engineers to ensure on-time delivery of well-tested, feature-complete software
 
-Ruby Developer
-Bypass Mobile, LLC
-Austin, Texas
+Apr 2013 – Jun 2014<br />
+**Senior Web Developer**<br />
+*Infront Webworks*
 
-Build web applications and APIs powering a mobile point of sale system targeted to sports and entertainment venues
+* Enhanced and maintained the SiteWorks cms and related software
+* Added advanced functionality including subscriptions, saved carts, and round- up donations to the SiteWorks Store e-commerce platform
+* Assessed client needs and developed custom solutions to work in tandem with SiteWorks
+* Launched dozens of client websites
 
-Apr 2013 – Jun 2014
+Sep 2008 – Jan 2013<br />
+**Digital Media Developer-Analyst**<br />
+*WAY Media*
 
-Senior Web Developer
-Infront Webworks, Inc
-Colorado Springs, Colorado
+* Modernized development workflow by rolling out version control, automated testing, and continuous integration
+* Communicatedwithinternalstakeholderstodeterminesoftwarerequirements
+* Designed, implemented, tested and deployed hundreds of features
+* Manageddevelopmentprojects,coordinatingwithinternsandthird-partycon- tractors
+* Oversaw ongoing maintenance of existing software packages
+* Built, configured, and maintained physical Linux servers and ec2 instances
 
-Develop and maintain the SiteWorks CMS (a Rails engine-based plugin) and related software, assess client needs and craft custom solutions to work in tandem with SiteWorks
+## Affiliations:
 
-Jun 2011 – Present
-
-Developer/Project Manager
-{You} Creative, LLC
-Colorado Springs, Colorado
-
-Transform static design assets into well-crafted, semantic markup and interactive CMS themes; provide recommendations on and assistance in implementing security, SEO, and UX best practices; manage digital creative projects, monitoring progress in all areas and ensuring timely delivery
-
-Sep 2008 – Jan 2013
-
-Digital Media Developer-Analyst
-WAY Media Inc
-Colorado Springs, Colorado
-
-Communicate with internal stakeholders to determine software require-
-ments; design, implement, test and deploy web software solutions in a
-LAMP environment; manage development projects, coordinating with in-
-terns and third-party contractors; oversee ongoing maintenance of ex-
-isting software packages; build, configure, and maintain physical and
-cloud-based virtual Linux servers
-
-## Professional Affiliations:
-
-Member, Association for Computing Machinery (ACM)
-
-## Open Source:
-ActsAsStarrable – Gem for adding ratings to Rails apps – creator
-RSpec – Ruby testing framework – occasional contributor
-
-## Around the Web:
-
-http://alexander-clark.com/
-http://github.com/alexander-clark
-http://www.linkedin.com/in/alexanderdclark
-http://careers.stackoverflow.com/cv/employer/201949
-http://twitter.com/atheclark
+Member, ACM &ndash; 2011 &ndash; present
 
 ## Education:
-2004 – 2007
-
-Bachelor of Arts, Theology
-Azusa Pacific University
+2004 – 2007<br />
+**Bachelor of Arts**<br />
+Azusa Pacific University<br />
 Azusa, California
