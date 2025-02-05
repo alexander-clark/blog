@@ -30,7 +30,7 @@ Aug 2022 - present<br />
 * Developed and automated a set of architecture metrics to track the health of the codebase and progress toward goals
 * Optimized CI/CD pipeline and deployment workflow, dramatically reducing friction to deployment
 * Implemented better observability tooling and used it to find and fix numerous performance bottlenecks
-* Stepped in to fill an unexpected leadership vacancy</li>
+* Stepped in to fill an unexpected leadership vacancy
 
 Aug 2021 – Jul 2022<br />
 **Staff Software Engineer**<br />
