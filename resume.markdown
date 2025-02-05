@@ -7,20 +7,38 @@ permalink: /resume/
 # Alexander Clark
 ## Qualifications
 
-* Twelve years of experience building web applications
-* Ten years using Ruby on Rails
-* Seventeen years using MySQL and Linux
-* Twenty-three years of writing code
+* Seventeen years of experience building web applications
+* Fifteen years using Ruby on Rails
+* Twenty years in the IT industry
+* Twenty-seven years of writing code
 
 ## Technical Skills:
 
-**Adept:** Ruby, Rails, Docker, Javascript, Angular, SQL (PostgreSQL, MySQL), HTML, SASS, CSS, Git, RSpec, Minitest, Apache, Linux
+**Adept:** Ruby, Rails, Docker, Javascript, React, SQL (PostgreSQL, MySQL), HTML, SASS, CSS, Git, RSpec, Minitest, Apache, Linux
 
-**Practiced:** LaTeX, BASH scripting, AWS EC2, PHP
+**Practiced:** LaTeX, TypeScript, BASH scripting, AWS EC2, PHP, Terraform
 
-**Dabbled-in:** Kubernetes, React, Heroku, Scheme, C, C++, Java, Python, Go, TLA+
+**Dabbled-in:** Kubernetes, Heroku, Scheme, C, C++, Java, Python, Go, TLA+
 
 ## Experience:
+
+Aug 2022 - present<br />
+**Software Architect &rarr; Engineering Team Lead**<br />
+*CHI Deutschland Cargo Handling*
+
+* Formulated, advocated, and built consensus around specific architectural improvements to avoid a re-write, allowing feature development to continue while paying down tech debt and preparing for emerging technologies
+* Developed and automated a set of architecture metrics to track the health of the codebase and progress toward goals
+* Optimized CI/CD pipeline and deployment workflow, dramatically reducing friction to deployment
+* Implemented better observability tooling and used it to find and fix numerous performance bottlenecks
+* Stepped in to fill an unexpected leadership vacancy</li>
+
+Aug 2021 – Jul 2022<br />
+**Staff Software Engineer**<br />
+*Hotel Engine*
+
+* Established a cross-team guild for staff engineers
+* Helped chart the technical roadmap, weighing in on architecture and process
+* Developed backend features, writing exemplary code and paying off tech debt
 
 Apr 2016 – Jun 2021<br />
 **Director of Engineering, Lead Developer**<br />
