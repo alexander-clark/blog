@@ -12,6 +12,8 @@ categories:
     - linux-command-line
 permalink: /navigating-the-command-line
 ---
+*Author's note: I've been using the Linux command line since 2003, but I often meet developers who struggle to understand it. I've also found that teaching can be a great way to deepen one's own understanding. After starting to write this series, I ran across Julia Evans' [Wizard Zines](https://wizardzines.com). Julia has a rare gift for explaining incredibly technical topics in ways that are helpful for beginners and experts alike. I highly recommend her work.*
+
 Navigating the command line is mostly a matter of moving between directories, and understanding where you are &#8211; the current working directory. As mentioned previously, when working on the command line, there is always a current working directory.
 
 ## Checking the Current Working Directory

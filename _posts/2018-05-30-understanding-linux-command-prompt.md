@@ -12,6 +12,8 @@ categories:
     - linux-command-line
 permalink: /understanding-linux-command-prompt
 ---
+*Author's note: I've been using the Linux command line since 2003, but I often meet developers who struggle to understand it. I've also found that teaching can be a great way to deepen one's own understanding. After starting to write this series, I ran across Julia Evans' [Wizard Zines](https://wizardzines.com). Julia has a rare gift for explaining incredibly technical topics in ways that are helpful for beginners and experts alike. I highly recommend her work.*
+
 First, the preliminaries. In order to understand the Linux command prompt, it&#8217;s necessary to recognize the significance of the pieces it&#8217;s comprised of. Certain things are necessary in order to have a terminal session at all.
 
 ## Prerequisites
